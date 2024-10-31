@@ -1,0 +1,3 @@
+npx create-react-app tech-academy-frontend
+cd tech-academy-frontend
+npm install ethers
